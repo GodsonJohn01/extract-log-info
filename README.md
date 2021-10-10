@@ -3,8 +3,8 @@ This project intends to extract the required data from a log file using python
 
 Steps to set up the project locally:
 
-1. Clone the Repository `https://github.com/GodsonJohn01/extract-log-info.git`. 
-   Now, Get into the repository `cd extract-log-info`
+1. Clone the Repository `https://github.com/GodsonJohn01/extract-log-info.git`.
+   Now, get into the repository `cd extract-log-info`
 
 1. Install and activate virtualenv: 
     `pip install virtualenv` (ignore if already installed)
@@ -20,3 +20,11 @@ Steps to set up the project locally:
    It will automatically run the test file `test_extract_log.py` since it starts with keyword `test_`
 
 6. To check the code coverage, `pytest --cov=.`
+
+
+<hr>
+
+### Notes
+Issue in running the project?
+
+Install all the specified requirements properly and try again. Thanks!
