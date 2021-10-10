@@ -20,3 +20,6 @@ Steps to set up the project locally:
    It will automatically run the test file `test_extract_log.py` since it starts with keyword `test_`
 
 6. To check the code coverage, `pytest --cov=.`
+
+<hr>
+
