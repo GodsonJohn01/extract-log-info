@@ -37,6 +37,10 @@ class Systemlog:
         if cs2Label:
             data['cs2Label'] = cs2Label.group(1)
 
+        cs2 = re.search('cs2=(.+?) ', log_data)
+        if cs2:
+            data['cs2'] = cs2.group(1)
+
         cs3Label = re.search('cs3Label=(.+?) ', log_data)
         if cs3Label:
             data['cs3Label'] = cs3Label.group(1)
