@@ -24,5 +24,5 @@ Steps to set up the project locally:
 
 <hr>
 
-Issue in running the project?
+<h4>Issue in running the project?</h4>
 Install all the specified requirements properly and try again. Thanks!
