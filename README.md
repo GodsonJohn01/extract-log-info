@@ -21,5 +21,8 @@ Steps to set up the project locally:
 
 6. To check the code coverage, `pytest --cov=.`
 
+
 <hr>
 
+Issue in running the project?
+Install all the specified requirements properly and try again. Thanks!
