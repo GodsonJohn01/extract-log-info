@@ -79,7 +79,7 @@ class Systemlog:
         """
         Writing the extracted data to the output file
         """
-        f = open('output.txt', 'w')
+        f = open('output/output.txt', 'w')
         f.write(json.dumps(data))
         print("Data generated successfully! Please check the output file.\nThanks!")
 
