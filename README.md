@@ -3,7 +3,7 @@ This project intends to extract the required data from a log file using python
 
 Steps to set up the project locally:
 
-1. Clone the Repository `https://github.com/GodsonJohn01/extract-log-info.git`. 
+1. Clone the Repository `https://github.com/GodsonJohn01/extract-log-info.git`.
    Now, get into the repository `cd extract-log-info`
 
 1. Install and activate virtualenv: 
