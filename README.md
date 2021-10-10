@@ -14,7 +14,7 @@ Steps to set up the project locally:
 3. Install the requirements using `pip install -r requirements.txt`
 
 4. Now, Run the main file  `python3 extract_log.py`.
-   Congrats! You can see the output in the file `output.txt` if everything is right.
+   Congrats! You can see the output in the file `output/output.txt` if everything is right.
 
 5. To run the test cases, simply run the command `pytest`
    It will automatically run the test file `test_extract_log.py` since it starts with keyword `test_`
