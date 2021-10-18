@@ -51,3 +51,4 @@ for x in log_list:
 print("No of error messages in the log file: ", error_count)
 print("No of warning messages in the log file: ", warning_count)
 print("No of info messages in the log file: ", info_count)
+
